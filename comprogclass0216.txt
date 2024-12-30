@@ -1,0 +1,25 @@
+Melvin Niñal6:48 PM
+1 Unstructured
+2. Structured
+Melvin Niñal6:51 PM
+Assembly
+1. Procedural
+2. Object-oriented
+Melvin Niñal6:52 PM
+Procedural = Process-oriented
+1. Low Level Language
+2. Middle-Level
+3. High-Level
+Melvin Niñal6:56 PM
+Java = English-like
+Assembly = mnemonics 
+C = no so englishlike
+MOV AX, DX
+LEA AH, DH
+SampleJavaProgram.java = source code or source file
+Melvin Niñal7:17 PM
+A.class
+B.class
+SampleJavaProgram.clas
+VYTECODE
+BYTECODE
